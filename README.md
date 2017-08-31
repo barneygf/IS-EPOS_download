@@ -29,9 +29,9 @@ Please remember - if you do not know Python and Selenium, change only variables 
 ### Prerequisites
 
 Software uses Python 3 with module Selenium adn Google Chrome browser. It is necessary to have the newest
-chromedriver.exe file in the same folder as a script. If you would like to use e.g. Mozilla Firefox, 
-appriopriate driver and changing the driver vairiable in the code are necessary.
-Firefox, you have to 
+chromedriver.exe file in the same folder as a script. You can download it from: https://sites.google.com/a/chromium.org/chromedriver/downloads
+If you would like to use e.g. Mozilla Firefox, appriopriate driver and changing the driver vairiable in the 
+code are necessary. 
 
 ## Running
 
