@@ -17,9 +17,13 @@ print('*** Download signals from IS-EPOS platform ***')
 username = input('Type your e-mail on IS-EPOS platform: ')
 password = input('Type your password on IS-EPOS platform: ')  # getpass.getpass() doesn't work in PyCharm
 
+################################################################################
+
 nr_f = [1, 2]  # Number of folder in 'My Workspace' at TCS Portal, starting from zero (first folder=0, second folder=1 etc.)
 sd_name = 'Signal download aa'  # Name of 'Signal download' folder
 dt = 1  # Sleeping time
+
+################################################################################
 
 # Standard input
 events_per_page = 20
